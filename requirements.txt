@@ -1,0 +1,11 @@
+certifi==2025.11.12
+charset-normalizer==3.4.4
+-e git+https://github.com/J4nis05/helper.git@872489774dfb5fa34a9a4abdddfc536b7c508c35#egg=helper
+idna==3.11
+markdown-it-py==4.0.0
+mdurl==0.1.2
+Pygments==2.19.2
+pyperclip==1.11.0
+requests==2.32.5
+rich==14.2.0
+urllib3==2.5.0
